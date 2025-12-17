@@ -1,0 +1,28 @@
+{
+  "name": "create-reallysimpledocs",
+  "version": "0.1.0",
+  "description": "Scaffold a new ReallySimpleDocs site.",
+  "license": "UNLICENSED",
+  "type": "module",
+  "bin": {
+    "create-reallysimpledocs": "bin/create-reallysimpledocs.js"
+  },
+  "files": [
+    "bin"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "create",
+    "scaffold",
+    "starter",
+    "template",
+    "eleventy",
+    "11ty",
+    "docs"
+  ]
+}
